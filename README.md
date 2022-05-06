@@ -3,9 +3,14 @@
 ### **:notebook_with_decorative_cover:Meu portfolio**
 ---
 Este portfólio foi criado para mostrar as tecnologias e projetos que estou trabalhando e aprendendo em cada momento.
+✌️ Olá! tudo bem?
+Meu nome é Henrique. Atualmente, estou estudando a ciência dos dados.
 
+Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. Acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
 
-## **🔧 Tecnologias com familiaridade**
+💻 essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
+
+### **🔧 Essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:**
 
 👉 Programming languages
 
